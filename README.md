@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###
+
+![gopher dancing](./dancing-gopher.gif)
+
+[charm]: https://github.com/charmbracelet
