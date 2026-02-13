@@ -1,19 +1,21 @@
 ## Hi there 👋
 
-<!--
-**cyerphic/cyerphic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+0000000008888888000000000
+0000000888888888880000000
+0000008888888888888800000
+0000888888888888888888000
+0008888888888888888888800
+0088888888000888888888880
+0088888880000088888888880
+0088888800000008888888880
+0000088800000000888880000
+0000000880000000888800000
+0000000888888888888000000
+0000000088888888880000000
+0000000008888888800000000
+0000000000888888000000000
+0000000000088880000000000
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ###
 
