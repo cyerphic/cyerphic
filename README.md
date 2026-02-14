@@ -11,7 +11,7 @@ f0442b47c2dd 01111111111111111111111110 13a43be076a61e5cf23dc12ed141829905d45bde
 042913af446189d 000000000000000000 2364de22f4c389f82df6ee0c9bd20162dc12edfea1cf9c8c7<br>
 d8a12bed13d35d6dd35d618e962a0386747d31eb5269272a6ca02faa18f1c7cd<br>
 ###
-<--
+<!--
 ![gopher dancing](./dancing-gopher.gif)
 
 [charm]: https://github.com/charmbracelet
